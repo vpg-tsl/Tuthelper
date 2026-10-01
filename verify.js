@@ -61,7 +61,10 @@ module.exports = {
             { tab: "LAS 2 Brabois", role: "LAS 2", site: "Brabois" },
             { tab: "LAS 2 Bridoux", role: "LAS 2", site: "Bridoux" },
             { tab: "LAS 3 Brabois", role: "LAS 3", site: "Brabois" },
-            { tab: "LAS 3 Bridoux", role: "LAS 3", site: "Bridoux" }
+            { tab: "LAS 3 Bridoux", role: "LAS 3", site: "Bridoux" },
+            { tab: "LAS 1", role: "LAS 1" },
+            { tab: "LAS 2", role: "LAS 2" },
+            { tab: "LAS 3", role: "LAS 3" },
         ];
 
         let studentFound = null;
